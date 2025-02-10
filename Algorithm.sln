@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. SelctionSort", "2. Selct
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3. InsertionSort", "3. InsertionSort\3. InsertionSort.vcxproj", "{BB5C1E5F-B440-43CC-9400-3E3FE914D383}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4. QuickSort", "4. QuickSort\4. QuickSort.vcxproj", "{4774CEAE-18DB-4885-A442-1C2F46D87D80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{BB5C1E5F-B440-43CC-9400-3E3FE914D383}.Release|x64.Build.0 = Release|x64
 		{BB5C1E5F-B440-43CC-9400-3E3FE914D383}.Release|x86.ActiveCfg = Release|Win32
 		{BB5C1E5F-B440-43CC-9400-3E3FE914D383}.Release|x86.Build.0 = Release|Win32
+		{4774CEAE-18DB-4885-A442-1C2F46D87D80}.Debug|x64.ActiveCfg = Debug|x64
+		{4774CEAE-18DB-4885-A442-1C2F46D87D80}.Debug|x64.Build.0 = Debug|x64
+		{4774CEAE-18DB-4885-A442-1C2F46D87D80}.Debug|x86.ActiveCfg = Debug|Win32
+		{4774CEAE-18DB-4885-A442-1C2F46D87D80}.Debug|x86.Build.0 = Debug|Win32
+		{4774CEAE-18DB-4885-A442-1C2F46D87D80}.Release|x64.ActiveCfg = Release|x64
+		{4774CEAE-18DB-4885-A442-1C2F46D87D80}.Release|x64.Build.0 = Release|x64
+		{4774CEAE-18DB-4885-A442-1C2F46D87D80}.Release|x86.ActiveCfg = Release|Win32
+		{4774CEAE-18DB-4885-A442-1C2F46D87D80}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
