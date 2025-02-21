@@ -24,6 +24,7 @@
     <ProjectGuid>{d3188c98-4402-4c41-a297-796f67469877}</ProjectGuid>
     <RootNamespace>My2SelctionSort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>2.SelctionSort</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

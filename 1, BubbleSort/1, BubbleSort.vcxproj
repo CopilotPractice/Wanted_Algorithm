@@ -24,6 +24,7 @@
     <ProjectGuid>{e72f1daa-8018-45f2-8633-e8d7377e4613}</ProjectGuid>
     <RootNamespace>My1BubbleSort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>1.BubbleSort</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

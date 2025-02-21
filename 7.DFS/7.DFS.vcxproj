@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{bb5c1e5f-b440-43cc-9400-3e3fe914d383}</ProjectGuid>
-    <RootNamespace>My3InsertionSort</RootNamespace>
+    <ProjectGuid>{469fe647-6883-4194-bbcd-b53436da40fc}</ProjectGuid>
+    <RootNamespace>My7DFS</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>3.InsertionSort</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

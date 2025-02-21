@@ -24,6 +24,7 @@
     <ProjectGuid>{8059cce8-b48f-4f36-a077-813f017caf79}</ProjectGuid>
     <RootNamespace>My6HeapSort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>6.HeapSort</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

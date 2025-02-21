@@ -24,6 +24,7 @@
     <ProjectGuid>{4774ceae-18db-4885-a442-1c2f46d87d80}</ProjectGuid>
     <RootNamespace>My4QuickSort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>4.QuickSort</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

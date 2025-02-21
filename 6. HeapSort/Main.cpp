@@ -65,7 +65,6 @@ int main()
 
     PrintArray(array);
 
-
     HeapSort(array);
 
     PrintArray(array);
